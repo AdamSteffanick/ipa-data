@@ -1,0 +1,68 @@
+Symbol,Symbol Name,Phonetic Description,IPA Number,UCS Code,AFII Code
+ʼ,apostrophe,ejective,401,02BC,E249
+̥,under-ring,voiceless,402A,0325,E229
+̊,over-ring,voiceless,402B,030A,00CA
+̬,subscript wedge,voiced,403,032C,E22A
+ʰ,superscript H,aspirated,404,02B0,D565
+̤,subscript umlaut,breathy voiced,405,0324,E22B
+̰,subscript tilde,creaky voiced,406,0330,23D8
+̼,subscript seagull,linguolabial,407,033C,22E8
+̪,subscript bridge,dental,408,032A,E22C
+̺,inverted subscript bridge,apical,409,033A,23FD
+̻,subscript square,laminal,410,033B,23FE
+̹,subscript right half-ring,more rounded,411,0339,E23C
+̜,subscript left half-ring,less rounded,412,031C,E232
+̟,subscript plus,advanced,413,031F,E233
+̠,under-bar,retracted,414,0320,E234
+̈,umlaut,centralized,415,0308,E221
+̽,over-cross,mid-centralized,416,033D,2311
+̘,advancing sign,advanced tongue root,417,0318,23F7
+̙,retracting sign,retracted tongue root,418,0319,23F8
+˞,right hook,rhoticity,419,02DE,E28A
+ʷ,superscript W,labialized,420,02B7,D56E
+ʲ,superscript J,palatalized,421,02B2,D567
+ˠ,superscript gamma,velarized,422,02E0,E28B
+ˤ,superscript reversed glottal stop,pharyngealized,423,02E4,E28C
+̃,superscript tilde,nasalized,424,0303,E222
+ⁿ,superscript N,nasal release,425,207F,FDA8
+ˡ,superscript L,lateral release,426,02E1,FDA3
+̚,corner,no audible release,427,031A,23F9
+̴,superimposed tilde,velarized or pharyngealized,428,0334,E226
+̝,raising sign,raised,429,031D;02D4,E22F
+̞,lowering sign,lowered,430,031E;02D5;E231
+̩,syllabicity mark,syllabic,431,0329,E22E
+̯,subscript arch,non-syllabic,432,032F,23FA
+͡,top tie bar,affricate or double,433,0361,E225
+ˈ,vertical stroke (superior),primary stress,501,02C8,E23E
+ˌ,vertical stroke (inferior),secondary stress,502,02CC,E23F
+ː,length mark,long,503,02D0,E23A
+ˑ,half-length mark,half-long,504,02D1,E23B
+̆,breve,extra-short,505,0306,E223
+.,period,syllable break,506,002E,002E
+|,vertical line (thick),minor (foot) group,507,007C,007C
+‖,double vertical line (thick),major (intonation) group,508,2016,2142
+‿,bottom tie bar,linking (absence of a break),509,203F,230F
+↗,upward diagonal arrow,global rise,510,2197,EF3E
+↘,downward diagonal arrow,global fall,511,2198,EF3D
+̋,double acute accent (over),extra high level,512,030B,00CD
+́,acute accent (over),high level,513,0301,00C2
+̄,macron,mid level,514,0304,00C5
+̀,grave accent (over),low level,515,0300,00C1
+̏,double grave accent (over),extra low level,516,030F,23E2
+↓,down arrow,downstep,517,2193,EEAF
+↑,up arrow,upstep,518,2191,EEAD
+˥,extra-high tone letter,extra high level,519,02E5,E28D
+˦,high tone letter,high level,520,02E6,E28E
+˧,mid tone letter,mid level,521,02E7,E28F
+˨,low tone letter,low level,522,02E8,E29F
+˩,extra-low tone letter,extra low level,523,02E9,E29E
+̌,wedge;háček,rising contour,524,030C,00CF
+̂,circumflex,falling contour,525,0302,00C3
+᷄,macron plus acute accent,high rising contour,526,1DC4,E296
+᷅,grave plus acute accent,low rising contour,527,1DC5,E297
+᷈,grave plus acute plus grave accent,rising-falling contour,528,1DC8,E298
+˩˥,rising tone letter,rising contour,529,,E299
+˥˩,falling tone letter,falling contour,530,,E29A
+˦˥,high-rising tone letter,high rising contour,531,,E29B
+˩˨,low-rising tone letter,low rising contour,532,,E29C
+˧˦˧,rising-falling tone letter,rising-falling contour,533,,E29D
