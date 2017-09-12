@@ -9,14 +9,6 @@ Computer coding of International Phonetic Alphabet (IPA) symbols. These data ref
 * Added UCS Code 1DC5 for IPA Number 527
 * Added UCS Code 1DC8 for IPA Number 528
 
-## IPA Chart
-<object data="./IPA_Kiel_2015.pdf" type="application/pdf">
-  <embed src="./IPA_Kiel_2015.pdf">
-    This browser does not support PDFs. Please download the PDF to view it: <a href="./IPA_Kiel_2015.pdf">IPA Chart</a>.</p>
-  </embed>
-</object>
-<img src="https://github.com/AdamSteffanick/ipa-phonetics/blob/master/IPA_Kiel_2015.pdf" alt="IPA Chart" />
-
 ## Attribution
 IPA Chart, https://www.internationalphoneticassociation.org/content/ipa-chart, available under a Creative Commons Attribution-Sharealike 3.0 Unported License. Copyright © 2015 International Phonetic Association.
 
