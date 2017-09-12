@@ -2,9 +2,9 @@
 
 [![license][license-badge]][LICENSE]
 
-Computer coding of the International Phonetic Association (IPA) symbols.
+Computer coding of International Phonetic Alphabet (IPA) symbols. These data were extracted from the [Handbook of the International Phonetic Association] ([International Phonetic Association], 1999).
 
-## Changes to data in the [Handbook of the International Phonetic Association]
+## Changes to the data
 * Added UCS Code 1DC4 for IPA Number 526
 * Added UCS Code 1DC5 for IPA Number 527
 * Added UCS Code 1DC8 for IPA Number 528
@@ -15,4 +15,5 @@ IPA Chart, https://www.internationalphoneticassociation.org/content/ipa-chart, a
 [LICENSE]: ./LICENSE
 [license-badge]: https://img.shields.io/badge/CC--BY--SA-3.0-0038e2.svg?style=flat-square
 
+[International Phonetic Association]: https://www.internationalphoneticassociation.org/
 [Handbook of the International Phonetic Association]: https://www.internationalphoneticassociation.org/content/handbook-ipa
