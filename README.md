@@ -13,6 +13,6 @@ Computer coding of the International Phonetic Association (IPA) symbols.
 IPA Chart, https://www.internationalphoneticassociation.org/content/ipa-chart, available under a Creative Commons Attribution-Sharealike 3.0 Unported License. Copyright © 2015 International Phonetic Association.
 
 [LICENSE]: ./LICENSE
-[license-badge]: https://img.shields.io/badge/license-CC--BY--SA-3.0-0038e2.svg?style=flat-square
+[license-badge]: https://img.shields.io/badge/CC--BY--SA-3.0-0038e2.svg?style=flat-square
 
 [Handbook of the International Phonetic Association]: https://www.internationalphoneticassociation.org/content/handbook-ipa
