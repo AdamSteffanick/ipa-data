@@ -32,3 +32,6 @@ Symbol,Symbol Name,Phonetic Description,Status,IPA Number,UCS Code,AFII Code
 ˦˥,high-rising tone letter,high rising contour,,531,,E29B
 ˩˨,low-rising tone letter,low rising contour,,532,,E29C
 ˧˦˧,rising-falling tone letter,rising-falling contour,,533,,E29D
+̑,superscript arch,long falling tone / advanced / palatal,not IPA usage,595,0311,23F2
+̌,wedge;háček,falling-rising tone,usage redefined (1989) see 524,526,02C7,E247
+̂,circumflex,rising-falling tone,usage redefined (1989) see 525,527,02C6,E246
