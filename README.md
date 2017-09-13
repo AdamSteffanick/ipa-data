@@ -1,10 +1,10 @@
-# The International Phonetic Alphabet
+# International Phonetic Alphabet Data
 
 [![license][license-badge]][LICENSE]
 
-Computer coding of International Phonetic Alphabet (IPA) symbols. These data reflect the [IPA Chart] and were extracted from the [Handbook of the International Phonetic Association] ([International Phonetic Association], 1999).
+Data for International Phonetic Alphabet (IPA). This dataset reflects the symbols on the [IPA Chart] and is extracted from the [Handbook of the International Phonetic Association] ([International Phonetic Association], 1999).
 
-## Changes to the data
+## Changes to the 1999 data
 * Added UCS Code 1DC4 for IPA Number 526
 * Added UCS Code 1DC5 for IPA Number 527
 * Added UCS Code 1DC8 for IPA Number 528
