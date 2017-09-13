@@ -8,7 +8,7 @@ d,lower-case D,voiced,dental or alveolar,plosive,,104,0064,E2B1
 c,lower-case C,voiceless,palatal,plosive,,107,0063,E2D8
 ɟ,barred dotless J,voiced,palatal,plosive,,108,025F,E2D9
 k,lower-case K,voiceless,velar,plosive,,109,006B,E2DE
-ɡ,opentail G,voiced,velar,plosive,,110,0261,E2DF
+ɡ,opentail G,voiced,velar,plosive,equivalent to 210,110,0261,E2DF
 q,lower-case Q,voiceless,uvular,plosive,,111,0071,E2E6
 ɢ,small capital G,voiced,uvular,plosive,,112,0262,E2E7
 ʔ,glottal stop,,glottal,plosive,,113,0294,E2ED
