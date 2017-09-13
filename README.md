@@ -4,7 +4,7 @@
 
 Data for International Phonetic Alphabet (IPA). This dataset reflects the symbols on the [IPA Chart] and is extracted from the [Handbook of the International Phonetic Association] ([International Phonetic Association], 1999).
 
-## Data serialization formats
+## Data serializations
 * [Comma-separated values]
 
 ## Changes to the 1999 data
