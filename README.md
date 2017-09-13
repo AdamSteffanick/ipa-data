@@ -4,6 +4,9 @@
 
 Data for International Phonetic Alphabet (IPA). This dataset reflects the symbols on the [IPA Chart] and is extracted from the [Handbook of the International Phonetic Association] ([International Phonetic Association], 1999).
 
+## Data serialization formats
+* [Comma-separated values]
+
 ## Changes to the 1999 data
 * Added UCS Code 1DC4 for IPA Number 526
 * Added UCS Code 1DC5 for IPA Number 527
@@ -15,6 +18,8 @@ Data for International Phonetic Alphabet (IPA). This dataset reflects the symbol
 
 ## Attribution
 IPA Chart, https://www.internationalphoneticassociation.org/content/ipa-chart, available under a Creative Commons Attribution-Sharealike 3.0 Unported License. Copyright © 2015 International Phonetic Association.
+
+[Comma-separated values]: ./data-csv
 
 [IPA Chart]: ./charts/IPA_Kiel_2015.pdf
 [LICENSE]: ./LICENSE
