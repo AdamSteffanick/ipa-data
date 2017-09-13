@@ -1,79 +1,79 @@
-Symbol,Symbol Name,Voicing,Place of Articulation,Manner of Articulation,IPA Number,UCS Code,AFII Code
-p,lower-case P,voiceless,bilabial,plosive,101,0070,E2A2
-b,lower-case B,voiced,bilabial,plosive,102,0062,E2A3
-t,lower-case T,voiceless,dental or alveolar,plosive,103,0074,E2B0
-d,lower-case D,voiced,dental or alveolar,plosive,104,0064,E2B1
-ʈ,right-tail T,voiceless,retroflex,plosive,105,0288,E2C7
-ɖ,right-tail D,voiced,retroflex,plosive,106,0256,E2C8
-c,lower-case C,voiceless,palatal,plosive,107,0063,E2D8
-ɟ,barred dotless J,voiced,palatal,plosive,108,025F,E2D9
-k,lower-case K,voiceless,velar,plosive,109,006B,E2DE
-ɡ,opentail G,voiced,velar,plosive,110,0261,E2DF
-q,lower-case Q,voiceless,uvular,plosive,111,0071,E2E6
-ɢ,small capital G,voiced,uvular,plosive,112,0262,E2E7
-ʔ,glottal stop,,glottal,plosive,113,0294,E2ED
-m,lower-case M,voiced,bilabial,nasal,114,006D,E2A1
-ɱ,left-tail M (at right),voiced,labiodental,nasal,115,0271,E2AB
-n,lower-case N,voiced,dental or alveolar,nasal,116,006E,E2AF
-ɳ,right-tail N,voiced,retroflex,nasal,117,0273,E2C6
-ɲ,left-tail N (at left),voiced,palatal,nasal,118,0272,E2D7
-ŋ,eng,voiced,velar,nasal,119,014B,E2DD
-ɴ,small capital N,voiced,uvular,nasal,120,0274,E2E4
-ʙ,small capital B,voiced,bilabial,trill,121,0299,E2F0
-r,lower-case R,voiced,dental or alveolar,trill,122,0072,E2C0
-ʀ,small capital R,voiced,uvular,trill,123,0280,E2EA
-ɾ,fish-hook R,voiced,dental or alveolar,tap,124,027E,E2C1
-ɽ,right-tail R,voiced,retroflex,flap,125,027D,E2CD
-ɸ,phi,voiceless,bilabial,fricative,126,0278,E2A4
-β,beta,voiced,bilabial,fricative,127,03B2,E2A5
-f,lower-case F,voiceless,labiodental,fricative,128,0066,E2AC
-v,lower-case V,voiced,labiodental,fricative,129,0076,E2AD
-θ,theta,voiceless,dental,fricative,130,03B8,E2B2
-ð,eth,voiced,dental,fricative,131,00F0,E2B3
-s,lower-case S,voiceless,alveolar,fricative,132,0073,E2B6
-z,lower-case Z,voiced,alveolar,fricative,133,007A,E2B7
-ʃ,esh,voiceless,postalveolar,fricative,134,0283,E2D0
-ʒ,ezh;tailed Z,voiced,postalveolar,fricative,135,0292,E2D1
-ʂ,right-tail S (at left),voiceless,retroflex,fricative,136,0282,E2C9
-ʐ,right-tail Z,voiced,retroflex,fricative,137,0290,E2CA
-ç,C cedilla,voiceless,palatal,fricative,138,00E7,E2DA
-ʝ,curly-tail J,voiced,palatal,fricative,139,029D,E2F3
-x,lower-case X,voiceless,palatal,fricative,140,0078,E2E0
-ɣ,gamma,voiced,velar,fricative,141,0263,E2E1
-χ,chi,voiceless,uvular,fricative,142,03C7,E2E8
-ʁ,inverted small capital R,voiced,uvular,fricative,143,0281,E2E9
-ħ,barred H,voiceless,pharyngeal,fricative,144,0127,E2EB
-ʕ,reversed glottal stop,voiced,pharyngeal,fricative or approximant,145,0295,E2EC
-h,lower-case H,voiceless,glottal,fricative,146,0068,E2EE
-ɦ,hooktop G,voiced,glottal,fricative,147,0266,E2EF
-ɬ,belted L,voiceless,dental or alveolar,lateral fricative,148,026C,E2BB
-ɮ,l-ezh ligature,voiced,dental or alveolar,lateral fricative,149,026E,E2BC
-ʋ,cursive V,voiced,labiodental,approximant,150,028B,E2AE
-ɹ,turned R,voiced,dental or alveolar,approximant,151,0279,E2BA
-ɻ,"turned R, right tail",voiced,retroflex,approximant,152,027B,E2CB
-j,lower-case J,voiced,palatal,approximant,153,006A,E2DB
-ɰ,"turned M, right leg",voiced,velar,approximant,154,0270,E2E2
-l,lower-case L,voiced,dental or alveolar,lateral approximant,155,006C,E2BD
-ɭ,right-tail L,voiced,retroflex,lateral approximant,156,026D,E2CC
-ʎ,turned Y,voiced,palatal,lateral approximant,157,028E,E2DC
-ʟ,small capital L,voiced,velar,lateral approximant,158,029F,E2F5
-ɓ,hooktop B,voiced,bilabial,implosive,160,0253,E2A9
-ɗ,hooktop D,voiced,dental or alveolar,implosive,162,0257,E2C2
-ʄ,hooktop barred dotless J,voiced,palatal,imploive,164,0284,E27C
-ɠ,hooktop G,voiced,velar,implosive,166,0260,E27E
-ʛ,hooktop small capital G,voiced,uvular,implosive,168,029B,E2F1
-ʍ,turned W,voiceless,labial-velar,fricative,169,028D,E2A7
-w,lower-case W,voiced,labial-velar,approximant,170,0077,E2A8
-ɥ,turned H,voiced,labial-palatal,approximant,171,0265,E2A6
-ʜ,small capital H,voiceless,epiglottal,fricative,172,029C,E2F2
-ʡ,barred glottal stop,,epiglottal,plosive,173,02A1,E2F7
-ʢ,barred reversed glottal stop,voiced,epiglottal,fricative or approximant,174,02A2,E2F8
-ɧ,hooktop heng,voiceless,simultaneous postalveolar and velar,fricative,175,0267,E2D6
-ʘ,bull’s eye,,bilabial,click,176,0298,E2AA
-ǀ,pipe,,dental,click,177,01C0,23A6
-ǃ,exclamation point,,(post)alveolar,click,178,01C3,23A5
-ǂ,double-barred pipe,,palatoalveolar,click,179,01C2,23A4
-ǁ,double pipe,,alveolar,lateral click,180,01C1,23A7
-ɺ,turned long-leg R,voiced,alveolar,lateral flap,181,027A,E2BF
-ɕ,curly-tail C,voiceless,alveolo-palatal,fricative,182,0255,E2CE
-ʑ,curly-tail Z,voiced,alveolo-palatal,fricative,183,0291,E2CF
+Symbol,Symbol Name,Voicing,Place of Articulation,Manner of Articulation,Status,IPA Number,UCS Code,AFII Code
+p,lower-case P,voiceless,bilabial,plosive,,101,0070,E2A2
+b,lower-case B,voiced,bilabial,plosive,,102,0062,E2A3
+t,lower-case T,voiceless,dental or alveolar,plosive,,103,0074,E2B0
+d,lower-case D,voiced,dental or alveolar,plosive,,104,0064,E2B1
+ʈ,right-tail T,voiceless,retroflex,plosive,,105,0288,E2C7
+ɖ,right-tail D,voiced,retroflex,plosive,,106,0256,E2C8
+c,lower-case C,voiceless,palatal,plosive,,107,0063,E2D8
+ɟ,barred dotless J,voiced,palatal,plosive,,108,025F,E2D9
+k,lower-case K,voiceless,velar,plosive,,109,006B,E2DE
+ɡ,opentail G,voiced,velar,plosive,,110,0261,E2DF
+q,lower-case Q,voiceless,uvular,plosive,,111,0071,E2E6
+ɢ,small capital G,voiced,uvular,plosive,,112,0262,E2E7
+ʔ,glottal stop,,glottal,plosive,,113,0294,E2ED
+m,lower-case M,voiced,bilabial,nasal,,114,006D,E2A1
+ɱ,left-tail M (at right),voiced,labiodental,nasal,,115,0271,E2AB
+n,lower-case N,voiced,dental or alveolar,nasal,,116,006E,E2AF
+ɳ,right-tail N,voiced,retroflex,nasal,,117,0273,E2C6
+ɲ,left-tail N (at left),voiced,palatal,nasal,,118,0272,E2D7
+ŋ,eng,voiced,velar,nasal,,119,014B,E2DD
+ɴ,small capital N,voiced,uvular,nasal,,120,0274,E2E4
+ʙ,small capital B,voiced,bilabial,trill,,121,0299,E2F0
+r,lower-case R,voiced,dental or alveolar,trill,,122,0072,E2C0
+ʀ,small capital R,voiced,uvular,trill,,123,0280,E2EA
+ɾ,fish-hook R,voiced,dental or alveolar,tap,,124,027E,E2C1
+ɽ,right-tail R,voiced,retroflex,flap,,125,027D,E2CD
+ɸ,phi,voiceless,bilabial,fricative,,126,0278,E2A4
+β,beta,voiced,bilabial,fricative,,127,03B2,E2A5
+f,lower-case F,voiceless,labiodental,fricative,,128,0066,E2AC
+v,lower-case V,voiced,labiodental,fricative,,129,0076,E2AD
+θ,theta,voiceless,dental,fricative,,130,03B8,E2B2
+ð,eth,voiced,dental,fricative,,131,00F0,E2B3
+s,lower-case S,voiceless,alveolar,fricative,,132,0073,E2B6
+z,lower-case Z,voiced,alveolar,fricative,,133,007A,E2B7
+ʃ,esh,voiceless,postalveolar,fricative,,134,0283,E2D0
+ʒ,ezh;tailed Z,voiced,postalveolar,fricative,,135,0292,E2D1
+ʂ,right-tail S (at left),voiceless,retroflex,fricative,,136,0282,E2C9
+ʐ,right-tail Z,voiced,retroflex,fricative,,137,0290,E2CA
+ç,C cedilla,voiceless,palatal,fricative,,138,00E7,E2DA
+ʝ,curly-tail J,voiced,palatal,fricative,,139,029D,E2F3
+x,lower-case X,voiceless,palatal,fricative,,140,0078,E2E0
+ɣ,gamma,voiced,velar,fricative,,141,0263,E2E1
+χ,chi,voiceless,uvular,fricative,,142,03C7,E2E8
+ʁ,inverted small capital R,voiced,uvular,fricative,,143,0281,E2E9
+ħ,barred H,voiceless,pharyngeal,fricative,,144,0127,E2EB
+ʕ,reversed glottal stop,voiced,pharyngeal,fricative or approximant,,145,0295,E2EC
+h,lower-case H,voiceless,glottal,fricative,,146,0068,E2EE
+ɦ,hooktop G,voiced,glottal,fricative,,147,0266,E2EF
+ɬ,belted L,voiceless,dental or alveolar,lateral fricative,,148,026C,E2BB
+ɮ,l-ezh ligature,voiced,dental or alveolar,lateral fricative,,149,026E,E2BC
+ʋ,cursive V,voiced,labiodental,approximant,,150,028B,E2AE
+ɹ,turned R,voiced,dental or alveolar,approximant,,151,0279,E2BA
+ɻ,"turned R, right tail",voiced,retroflex,approximant,,152,027B,E2CB
+j,lower-case J,voiced,palatal,approximant,,153,006A,E2DB
+ɰ,"turned M, right leg",voiced,velar,approximant,,154,0270,E2E2
+l,lower-case L,voiced,dental or alveolar,lateral approximant,,155,006C,E2BD
+ɭ,right-tail L,voiced,retroflex,lateral approximant,,156,026D,E2CC
+ʎ,turned Y,voiced,palatal,lateral approximant,,157,028E,E2DC
+ʟ,small capital L,voiced,velar,lateral approximant,,158,029F,E2F5
+ɓ,hooktop B,voiced,bilabial,implosive,,160,0253,E2A9
+ɗ,hooktop D,voiced,dental or alveolar,implosive,,162,0257,E2C2
+ʄ,hooktop barred dotless J,voiced,palatal,imploive,,164,0284,E27C
+ɠ,hooktop G,voiced,velar,implosive,,166,0260,E27E
+ʛ,hooktop small capital G,voiced,uvular,implosive,,168,029B,E2F1
+ʍ,turned W,voiceless,labial-velar,fricative,,169,028D,E2A7
+w,lower-case W,voiced,labial-velar,approximant,,170,0077,E2A8
+ɥ,turned H,voiced,labial-palatal,approximant,,171,0265,E2A6
+ʜ,small capital H,voiceless,epiglottal,fricative,,172,029C,E2F2
+ʡ,barred glottal stop,,epiglottal,plosive,,173,02A1,E2F7
+ʢ,barred reversed glottal stop,voiced,epiglottal,fricative or approximant,,174,02A2,E2F8
+ɧ,hooktop heng,voiceless,simultaneous postalveolar and velar,fricative,,175,0267,E2D6
+ʘ,bull’s eye,,bilabial,click,,176,0298,E2AA
+ǀ,pipe,,dental,click,,177,01C0,23A6
+ǃ,exclamation point,,(post)alveolar,click,,178,01C3,23A5
+ǂ,double-barred pipe,,palatoalveolar,click,,179,01C2,23A4
+ǁ,double pipe,,alveolar,lateral click,,180,01C1,23A7
+ɺ,turned long-leg R,voiced,alveolar,lateral flap,,181,027A,E2BF
+ɕ,curly-tail C,voiceless,alveolo-palatal,fricative,,182,0255,E2CE
+ʑ,curly-tail Z,voiced,alveolo-palatal,fricative,,183,0291,E2CF
