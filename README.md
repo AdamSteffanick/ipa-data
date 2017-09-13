@@ -18,7 +18,7 @@ IPA Chart, https://www.internationalphoneticassociation.org/content/ipa-chart, a
 
 [IPA Chart]: ./charts/IPA_Kiel_2015.pdf
 [LICENSE]: ./LICENSE
-[license-badge]: https://img.shields.io/badge/CC--BY--SA-3.0-0038e2.svg?style=flat-square
+[license-badge]: https://img.shields.io/badge/license-CC--BY--SA_3.0-0038e2.svg?style=flat-square
 
 [Handbook of the International Phonetic Association]: https://www.internationalphoneticassociation.org/content/handbook-ipa
 [International Phonetic Association]: https://www.internationalphoneticassociation.org/
