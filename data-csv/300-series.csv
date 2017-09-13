@@ -1,29 +1,29 @@
-Symbol,Symbol Name,Height,Backness,Rounding,IPA Number,UCS Code,AFII Code
-i,lower-case I,close,front,unrounded,301,0069,E251
-e,lower-case E,close-mid,front,unrounded,302,0065,E256
-ɛ,epsilon,open-mid,front,unrounded,303,025B,E258
-a,lower-case A,open,front,unrounded,304,0061,E25B
-ɑ,script A,open,back,unrounded,305,0251,E26C
-ɔ,open O,open-mid,back,rounded,306,0254,E26B
-o,lower-case O,close-mid,back,rounded,307,006F,E269
-u,lower-case U,close,back,rounded,308,0075,E265
-y,lower-case Y,close,front,rounded,309,0079,E252
-ø,slashed O,close-mid,front,rounded,310,00F8,E257
-œ,lower-case O-E ligature,open-mid,front,rounded,311,0153,E259
-ɶ,small capital O-E ligature,open,front,rounded,312,0276,E25C
-ɒ,turned script A,open,back,rounded,313,0252,E26D
-ʌ,turned V,open-mid,back,unrounded,314,028C,E26A
-ɤ,ram’s horns,close-mid,back,unrounded,315,0264,E268
-ɯ,turned M,close,back,undounded,316,026F,E264
-ɨ,barred I,close,central,unrounded,317,0268,E25D
-ʉ,barred U,close,central,rounded,318,0289,E25E
-ɪ,small capital I,near-close,near-front,unrounded,319,026A,E254
-ʏ,small capital Y,near-close,near-front,rounded,320,028F,E255
-ʊ,upsilon,near-close,near-back,rounded,321,028A,E267
-ə,schwa,mid,central,,322,0259,E25F
-ɵ,barred O,close-mid,central,rounded,323,0275,E261
-ɐ,turned A,near-open,central,,324,0250,E263
-æ,ash;lower-case A-E ligature,near-open,front,unrounded,325,00E6,E25A
-ɜ,reversed epsilon,open-mid,central,unrounded,326,025C,E262
-ɞ,closed reversed epsilon,open-mid,central,rounded,395,025E,E270
-ɘ,reversed E,close-mid,central,unrounded,397,0258,E26E
+Symbol,Symbol Name,Height,Backness,Rounding,Status,IPA Number,UCS Code,AFII Code
+i,lower-case I,close,front,unrounded,,301,0069,E251
+e,lower-case E,close-mid,front,unrounded,,302,0065,E256
+ɛ,epsilon,open-mid,front,unrounded,,303,025B,E258
+a,lower-case A,open,front,unrounded,,304,0061,E25B
+ɑ,script A,open,back,unrounded,,305,0251,E26C
+ɔ,open O,open-mid,back,rounded,,306,0254,E26B
+o,lower-case O,close-mid,back,rounded,,307,006F,E269
+u,lower-case U,close,back,rounded,,308,0075,E265
+y,lower-case Y,close,front,rounded,,309,0079,E252
+ø,slashed O,close-mid,front,rounded,,310,00F8,E257
+œ,lower-case O-E ligature,open-mid,front,rounded,,311,0153,E259
+ɶ,small capital O-E ligature,open,front,rounded,,312,0276,E25C
+ɒ,turned script A,open,back,rounded,,313,0252,E26D
+ʌ,turned V,open-mid,back,unrounded,,314,028C,E26A
+ɤ,ram’s horns,close-mid,back,unrounded,,315,0264,E268
+ɯ,turned M,close,back,undounded,,316,026F,E264
+ɨ,barred I,close,central,unrounded,,317,0268,E25D
+ʉ,barred U,close,central,rounded,,318,0289,E25E
+ɪ,small capital I,near-close,near-front,unrounded,,319,026A,E254
+ʏ,small capital Y,near-close,near-front,rounded,,320,028F,E255
+ʊ,upsilon,near-close,near-back,rounded,,321,028A,E267
+ə,schwa,mid,central,,,322,0259,E25F
+ɵ,barred O,close-mid,central,rounded,,323,0275,E261
+ɐ,turned A,near-open,central,,,324,0250,E263
+æ,ash;lower-case A-E ligature,near-open,front,unrounded,,325,00E6,E25A
+ɜ,reversed epsilon,open-mid,central,unrounded,,326,025C,E262
+ɞ,closed reversed epsilon,open-mid,central,rounded,,395,025E,E270
+ɘ,reversed E,close-mid,central,unrounded,,397,0258,E26E
