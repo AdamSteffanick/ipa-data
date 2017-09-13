@@ -8,6 +8,7 @@ Data for International Phonetic Alphabet (IPA). This dataset reflects the symbol
 * Added UCS Code 1DC4 for IPA Number 526
 * Added UCS Code 1DC5 for IPA Number 527
 * Added UCS Code 1DC8 for IPA Number 528
+* Changed IPA Number 402A & 402B → IPA Number 402
 
 ## IPA Chart
 <img src="./charts/IPA_Kiel_2015.png" alt="IPA Chart" />
