@@ -27,11 +27,11 @@ IPA Number,Symbol,Symbol Name,Phonetic Description,Status,UCS Code,AFII Code
 526,᷄,macron plus acute accent,high rising contour,,1DC4,E296
 527,᷅,grave plus acute accent,low rising contour,,1DC5,E297
 528,᷈,grave plus acute plus grave accent,rising-falling contour,,1DC8,E298
-529,˩˥,rising tone letter,rising contour,,,E299
-530,˥˩,falling tone letter,falling contour,,,E29A
-531,˦˥,high-rising tone letter,high rising contour,,,E29B
-532,˩˨,low-rising tone letter,low rising contour,,,E29C
-533,˧˦˧,rising-falling tone letter,rising-falling contour,,,E29D
+529,˩˥,rising tone letter,rising contour,,02E9+02E5,E299
+530,˥˩,falling tone letter,falling contour,,02E5+02E9,E29A
+531,˦˥,high-rising tone letter,high rising contour,,02E6+02E5,E29B
+532,˩˨,low-rising tone letter,low rising contour,,02E9+02E8,E29C
+533,˧˦˧,rising-falling tone letter,rising-falling contour,,02E7+02E6+02E7,E29D
 595,̑,superscript arch,long falling tone;advanced;palatal,not IPA usage,0311,23F2
 596,ˇ,wedge;háček,falling-rising tone,usage redefined (1989) see 524,02C7,E247
 597,ˆ,circumflex,rising-falling tone,usage redefined (1989) see 525,02C6,E246
