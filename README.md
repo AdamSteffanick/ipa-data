@@ -8,6 +8,10 @@ Data for International Phonetic Alphabet (IPA). These open-access datasets refle
 * Comma-separated values
 
 ## Changes to the 1999 data
+* Added UCS Code 1DBF for IPA Number 217
+* Added UCS Code 1D4A for IPA Number 218
+* Added UCS Code 1D91 for IPA Number 219
+* Added UCS Code 02F9 for IPA Number 490
 * Added UCS Code 1DC4 for IPA Number 526
 * Added UCS Code 1DC5 for IPA Number 527
 * Added UCS Code 1DC8 for IPA Number 528
