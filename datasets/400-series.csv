@@ -32,3 +32,14 @@ IPA Number,Symbol,Symbol Name,Phonetic Description,Status,UCS Code,AFII Code
 431,̩,syllabicity mark,syllabic,,0329,E22E
 432,̯,subscript arch,non-syllabic,,032F,23FA
 433,͡,top tie bar,affricate;double,,0361,E225
+489,̢,subscript right hook,rhoticity,superceded by 419 (1989),0322,E228
+490,˹,open corner,release;burst,not IPA usage,02F9,E218
+491,",",comma,pause (comma),not IPA usage,002C,002C
+492,ʻ,reversed apostrophe,weak aspiration,withdrawn (1979),02BB,00A9
+493,̇,over-dot,palatalization;centralization,withdrawn (1979),0307,E224
+494,˗,minus sign,retracted variety (backed),use 414 or 418 (1989),02D7,E239
+495,˖,plus sign,advanced variety (fronted),use 413 or 417 (1989),02D6,E238
+496,ʸ,superscript Y,high-front rounding;palatalized,not IPA usage,02B8,D570
+497,̣,under-dot,closer variety;fricative,use 429 (1989),0323,E230
+498,̡,subscript left hook,palatalized,superceded by 421 (1989),0321,E227
+499,̫,subscript W,labialized,superceded by 420 (1989),032B,E22D
