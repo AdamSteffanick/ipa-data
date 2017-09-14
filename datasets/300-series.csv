@@ -28,7 +28,7 @@ IPA Number,Symbol,Symbol Name,Description,Height,Backness,Rounding,Status,UCS Co
 327,ɚ,right-hook schwa,R-coloured,mid,central,,equivalent to 322+419,025A,E260
 394,ı,undotted I,,,,,not IPA usage,0131,00F5
 395,ɞ,closed reversed epsilon,,open-mid,central,rounded,,025E,E270
-396,ʚ,closed epsilon,,open-mid,central,rounded,superceded by 395 (1996),029A,E273
+396,ʚ,closed epsilon,,open-mid,central,rounded,superseded by 395 (1996),029A,E273
 397,ɘ,reversed E,,close-mid,central,unrounded,,0258,E26E
-398,ɷ,closed omega,,near-close,near-back,rounded,superceded by 321 (1989),0277,E266
-399,ɩ,iota,,near-close,near-front,unrounded,superceded by 319 (1989),0269,E253
+398,ɷ,closed omega,,near-close,near-back,rounded,superseded by 321 (1989),0277,E266
+399,ɩ,iota,,near-close,near-front,unrounded,superseded by 319 (1989),0269,E253

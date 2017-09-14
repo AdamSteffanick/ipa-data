@@ -12,7 +12,7 @@ IPA Number,Symbol,Symbol Name,Phonetic Description,Status,UCS Code,AFII Code
 211,ʦ,T-S ligature,voiceless dental affricate;voiceless alveolar affricate,superseded by 103+132,02A6,E2FC
 212,ʣ,D-Z ligature,voiced alveolar affricate,superseded by 104+133,02A3,E2F9
 213,ʧ,T-esh ligature,voiceless postalveolar affricate,superseded by 103+134,02A7,E2FD
-214,ʤ,D-ezh ligature,voiced postalveolar affricate,superceded by 104+135,02A4,E2FA
+214,ʤ,D-ezh ligature,voiced postalveolar affricate,superseded by 104+135,02A4,E2FA
 215,ʨ,T-curly-tail-C ligature,voiceless alveolo-palatal affricate,superseded by 103+182,02A8,E2FE
 216,ʥ,D-curly-tail-Z ligature,voiced alveolo-palatal affricate,superseded by 104+183,02A5,E2FB
 217,ᶿ,superscript theta,voiceless dental fricative release,,1DBF,E21B
