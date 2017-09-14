@@ -15,12 +15,12 @@ Data for International Phonetic Alphabet (IPA). These open-access datasets refle
 * Added UCS Code 1DC4 for IPA Number 526
 * Added UCS Code 1DC5 for IPA Number 527
 * Added UCS Code 1DC8 for IPA Number 528
-* Added UCS Code 02E9+02E5 for IPA Number 529
-* Added UCS Code 02E5+02E9 for IPA Number 530
-* Added UCS Code 02E6+02E5 for IPA Number 531
-* Added UCS Code 02E9+02E8 for IPA Number 532
-* Added UCS Code 02E7+02E6+02E7 for IPA Number 533
-* Changed IPA Number 402A & 402B → IPA Number 402
+* Added UCS Codes 02E9+02E5 for IPA Number 529
+* Added UCS Codes 02E5+02E9 for IPA Number 530
+* Added UCS Codes 02E6+02E5 for IPA Number 531
+* Added UCS Codes 02E9+02E8 for IPA Number 532
+* Added UCS Codes 02E7+02E6+02E7 for IPA Number 533
+* Changed IPA Numbers 402A & 402B → IPA Number 402
 
 ## IPA Chart
 <img src="./charts/IPA_Kiel_2015.png" alt="IPA Chart" />
