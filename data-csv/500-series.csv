@@ -1,39 +1,39 @@
-Symbol,Symbol Name,Phonetic Description,Status,IPA Number,UCS Code,AFII Code
-ˈ,vertical stroke (superior),primary stress,,501,02C8,E23E
-ˌ,vertical stroke (inferior),secondary stress,,502,02CC,E23F
-ː,length mark,long,,503,02D0,E23A
-ˑ,half-length mark,half-long,,504,02D1,E23B
-̆,breve,extra-short,,505,0306,E223
-.,period,syllable break,,506,002E,002E
-|,vertical line (thick),minor (foot) group,,507,007C,007C
-‖,double vertical line (thick),major (intonation) group,,508,2016,2142
-‿,bottom tie bar,linking (absence of a break),,509,203F,230F
-↗,upward diagonal arrow,global rise,,510,2197,EF3E
-↘,downward diagonal arrow,global fall,,511,2198,EF3D
-̋,double acute accent (over),extra high level,,512,030B,00CD
-́,acute accent (over),high level,,513,0301,00C2
-̄,macron,mid level,,514,0304,00C5
-̀,grave accent (over),low level,,515,0300,00C1
-̏,double grave accent (over),extra low level,,516,030F,23E2
-↓,down arrow,downstep,,517,2193,EEAF
-↑,up arrow,upstep,,518,2191,EEAD
-˥,extra-high tone letter,extra high level,,519,02E5,E28D
-˦,high tone letter,high level,,520,02E6,E28E
-˧,mid tone letter,mid level,,521,02E7,E28F
-˨,low tone letter,low level,,522,02E8,E29F
-˩,extra-low tone letter,extra low level,,523,02E9,E29E
-̌,wedge;háček,rising contour,,524,030C,00CF
-̂,circumflex,falling contour,,525,0302,00C3
-᷄,macron plus acute accent,high rising contour,,526,1DC4,E296
-᷅,grave plus acute accent,low rising contour,,527,1DC5,E297
-᷈,grave plus acute plus grave accent,rising-falling contour,,528,1DC8,E298
-˩˥,rising tone letter,rising contour,,529,,E299
-˥˩,falling tone letter,falling contour,,530,,E29A
-˦˥,high-rising tone letter,high rising contour,,531,,E29B
-˩˨,low-rising tone letter,low rising contour,,532,,E29C
-˧˦˧,rising-falling tone letter,rising-falling contour,,533,,E29D
-̑,superscript arch,long falling tone;advanced;palatal,not IPA usage,595,0311,23F2
-̌,wedge;háček,falling-rising tone,usage redefined (1989) see 524,596,02C7,E247
-̂,circumflex,rising-falling tone,usage redefined (1989) see 525,597,02C6,E246
-̖;ˎ,subscript grave accent,low falling tone,superseded (1989),598,0316;02CE,E245
-̗;ˏ,subscript acute accent,low rising tone,superseded (1989),599,0317;02CF,E243
+IPA Number,Symbol,Symbol Name,Phonetic Description,Status,UCS Code,AFII Code
+501,ˈ,vertical stroke (superior),primary stress,,02C8,E23E
+502,ˌ,vertical stroke (inferior),secondary stress,,02CC,E23F
+503,ː,length mark,long,,02D0,E23A
+504,ˑ,half-length mark,half-long,,02D1,E23B
+505,̆,breve,extra-short,,0306,E223
+506,.,period,syllable break,,002E,002E
+507,|,vertical line (thick),minor (foot) group,,007C,007C
+508,‖,double vertical line (thick),major (intonation) group,,2016,2142
+509,‿,bottom tie bar,linking (absence of a break),,203F,230F
+510,↗,upward diagonal arrow,global rise,,2197,EF3E
+511,↘,downward diagonal arrow,global fall,,2198,EF3D
+512,̋,double acute accent (over),extra high level,,030B,00CD
+513,́,acute accent (over),high level,,0301,00C2
+514,̄,macron,mid level,,0304,00C5
+515,̀,grave accent (over),low level,,0300,00C1
+516,̏,double grave accent (over),extra low level,,030F,23E2
+517,↓,down arrow,downstep,,2193,EEAF
+518,↑,up arrow,upstep,,2191,EEAD
+519,˥,extra-high tone letter,extra high level,,02E5,E28D
+520,˦,high tone letter,high level,,02E6,E28E
+521,˧,mid tone letter,mid level,,02E7,E28F
+522,˨,low tone letter,low level,,02E8,E29F
+523,˩,extra-low tone letter,extra low level,,02E9,E29E
+524,̌,wedge;háček,rising contour,,030C,00CF
+525,̂,circumflex,falling contour,,0302,00C3
+526,᷄,macron plus acute accent,high rising contour,,1DC4,E296
+527,᷅,grave plus acute accent,low rising contour,,1DC5,E297
+528,᷈,grave plus acute plus grave accent,rising-falling contour,,1DC8,E298
+529,˩˥,rising tone letter,rising contour,,,E299
+530,˥˩,falling tone letter,falling contour,,,E29A
+531,˦˥,high-rising tone letter,high rising contour,,,E29B
+532,˩˨,low-rising tone letter,low rising contour,,,E29C
+533,˧˦˧,rising-falling tone letter,rising-falling contour,,,E29D
+595,̑,superscript arch,long falling tone;advanced;palatal,not IPA usage,0311,23F2
+596,ˇ,wedge;háček,falling-rising tone,usage redefined (1989) see 524,02C7,E247
+597,ˆ,circumflex,rising-falling tone,usage redefined (1989) see 525,02C6,E246
+598,̖;ˎ,subscript grave accent,low falling tone,superseded (1989),0316;02CE,E245
+599,̗;ˏ,subscript acute accent,low rising tone,superseded (1989),0317;02CF,E243
