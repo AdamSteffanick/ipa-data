@@ -7,6 +7,9 @@ Data for International Phonetic Alphabet (IPA). These open-access datasets refle
 ## Data serializations
 * Comma-separated values
 
+## IPA Chart
+<img src="./charts/IPA_Kiel_2015.png" alt="IPA Chart" />
+
 ## Changes to the 1999 data
 * Added UCS Code 1DBF for IPA Number 217
 * Added UCS Code 1D4A for IPA Number 218
@@ -21,9 +24,6 @@ Data for International Phonetic Alphabet (IPA). These open-access datasets refle
 * Added UCS Codes 02E9+02E8 for IPA Number 532
 * Added UCS Codes 02E7+02E6+02E7 for IPA Number 533
 * Changed IPA Numbers 402A & 402B → IPA Number 402
-
-## IPA Chart
-<img src="./charts/IPA_Kiel_2015.png" alt="IPA Chart" />
 
 ## Attribution
 IPA Chart, https://www.internationalphoneticassociation.org/content/ipa-chart, available under a Creative Commons Attribution-Sharealike 3.0 Unported License. Copyright © 2015 International Phonetic Association.
