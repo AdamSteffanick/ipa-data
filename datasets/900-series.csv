@@ -1,0 +1,10 @@
+IPA Number,Symbol,Symbol Name,Phonetic Description,Status,UCS Code,AFII Code
+901,[,left square bracket,begin phonetic transcription,,005B,005B
+902,],right square bracket,end phonetic transcription,,005D,005D
+903,/,slash,begin phonemic transcription;end phonemic transcription,,002F,002F
+906,(,left parenthesis,begin silent articulation (mouthing),,0028,0028
+907,),right parenthesis,end silent articulation (mouthing),,0029,0029
+908,⸨,left double parenthesis,begin sound obscured,,2E28,
+909,⸩,right double parenthesis,end sound obscured,,2E29,
+910,{,left brace,begin prosodic notation,,007B,007B
+911,},right brace,end prosodic notation,,007D,007D
