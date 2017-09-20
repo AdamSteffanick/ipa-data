@@ -1,0 +1,2 @@
+domainRoot,coreClassFile,documentClass,creator,outputDirectory,outFileNameAfter,separator,baseIriColumn,modifiedColumn
+http://example.org/,blank.csv,foaf:Document,Vanderbilt Semantic Web Working Group,c:\test\output\,,",",primaryKey,
