@@ -1,30 +1,30 @@
-IPA_Number,Symbol,Symbol_Name,Phonetic_Description,Status,UCS_Code,AFII_Code
-201,ʇ,turned T,dental click,superseded by 177 (1989),0287,E2C3
-202,ʗ,stretched C,postalveolar click,superseded by 178 (1989),0297,E2C4
-203,ʖ,inverted glottal stop,alveolar lateral click,superseded by 180 (1989),0296,E2C5
-204,ʆ,curly-tail esh,,withdrawn (1989),0286,E2D2
-205,ʓ,curly-tail ezh,,withdrawn (1989),0293,E2D3
-206,ɼ,long-leg R,,withdrawn (1989),027C,E2BE
-207,ˢ,superscript S,,withdrawn (1989),02E2,FDA7
-208,ƫ,left-hook T,palatalized voiceless dental plosive;palatalized voiceless alveolar plosive,withdrawn (1989),01AB,E2A0
-209,ɫ,L with tilde,voiced velarized dental lateral approximant;voiced velarized alveolar lateral approximant,,026B,E27D
-210,g,looptail G,voiced velar plosive,equivalent to 110,0067,E2E3
-211,ʦ,T-S ligature,voiceless dental affricate;voiceless alveolar affricate,superseded by 103+132,02A6,E2FC
-212,ʣ,D-Z ligature,voiced alveolar affricate,superseded by 104+133,02A3,E2F9
-213,ʧ,T-esh ligature,voiceless postalveolar affricate,superseded by 103+134,02A7,E2FD
-214,ʤ,D-ezh ligature,voiced postalveolar affricate,superseded by 104+135,02A4,E2FA
-215,ʨ,T-curly-tail-C ligature,voiceless alveolo-palatal affricate,superseded by 103+182,02A8,E2FE
-216,ʥ,D-curly-tail-Z ligature,voiced alveolo-palatal affricate,superseded by 104+183,02A5,E2FB
-217,ᶿ,superscript theta,voiceless dental fricative release,,1DBF,E21B
-218,ᵊ,superscript schwa,mid central vowel release,,1D4A,E21A
-219,ᶑ,hooktop right-tail-D,voiced retroflex imposive,not explicitly IPA approved,1D91,E219
-290,ƻ,barred two,,withdrawn (1976),01BB,E2B5
-291,ʞ,turned K,,withdrawn (1979),029E,E2F4
-292,ˣ,superscript X,voiceless velar fricative release,,02E3,D56F
-293,ƞ,"N, right leg",syllabic nasal,withdrawn (1976),019E,E2E5
-294,ƛ,barred lambda,voiceless dental lateral affricate;voiceless alveolar lateral affricate,not IPA usage,019B,FD7B
-295,λ,lambda,voiceless dental lateral fricative;voiceless alveolar lateral fricative,not IPA usage,03BB,266E
-296,ž,Z wedge,voiced postalveolar fricative,not IPA usage,017E,F1F0
-297,š,S wedge,voiceless postalveolar fricative,not IPA usage,0161,F1DC
-298,ǰ,J wedge,voiced postalveolar affricate,not IPA usage,01F0,E290
-299,č,C wedge,voiceless postalveolar affricate,not IPA usage,010D,F1AE
+IPA_Number,Symbol,Symbol_Name,Description,Voicing,Place_of_Articulation,Manner_of_Articulation,Height,Backness,Rounding,Release,Status,UCS_Code,AFII_Code
+201,ʇ,turned T,,,dental,click,,,,,superseded by 177 (1989),0287,E2C3
+202,ʗ,stretched C,,,postalveolar,click,,,,,superseded by 178 (1989),0297,E2C4
+203,ʖ,inverted glottal stop,,,alveolar lateral,click,,,,,superseded by 180 (1989),0296,E2C5
+204,ʆ,curly-tail esh,,,,,,,,,withdrawn (1989),0286,E2D2
+205,ʓ,curly-tail ezh,,,,,,,,,withdrawn (1989),0293,E2D3
+206,ɼ,long-leg R,,,,,,,,,withdrawn (1989),027C,E2BE
+207,ˢ,superscript S,,,,,,,,,withdrawn (1989),02E2,FDA7
+208,ƫ,left-hook T,palatalized,voiceless,dental;alveolar,plosive,,,,,withdrawn (1989),01AB,E2A0
+209,ɫ,L with tilde,velarized,voiced,dental;alveolar,lateral approximant,,,,,,026B,E27D
+210,g,looptail G,,voiced,velar,plosive,,,,,equivalent to 110,0067,E2E3
+211,ʦ,T-S ligature,,voiceless,dental;alveolar,affricate,,,,,superseded by 103+132,02A6,E2FC
+212,ʣ,D-Z ligature,,voiced,alveolar,affricate,,,,,superseded by 104+133,02A3,E2F9
+213,ʧ,T-esh ligature,,voiceless,postalveolar,affricate,,,,,superseded by 103+134,02A7,E2FD
+214,ʤ,D-ezh ligature,,voiced,postalveolar,affricate,,,,,superseded by 104+135,02A4,E2FA
+215,ʨ,T-curly-tail-C ligature,,voiceless,alveolo-palatal,affricate,,,,,superseded by 103+182,02A8,E2FE
+216,ʥ,D-curly-tail-Z ligature,,voiced,alveolo-palatal,affricate,,,,,superseded by 104+183,02A5,E2FB
+217,ᶿ,superscript theta,,voiceless,dental,fricative,,,,release,,1DBF,E21B
+218,ᵊ,superscript schwa,,,,,mid,central,vowel,release,,1D4A,E21A
+219,ᶑ,hooktop right-tail-D,,voiced,retroflex,imposive,,,,,not explicitly IPA approved,1D91,E219
+290,ƻ,barred two,,,,,,,,,withdrawn (1976),01BB,E2B5
+291,ʞ,turned K,,,,,,,,,withdrawn (1979),029E,E2F4
+292,ˣ,superscript X,,voiceless,velar,fricative,,,,release,,02E3,D56F
+293,ƞ,"N, right leg",syllabic,,nasal,,,,,,withdrawn (1976),019E,E2E5
+294,ƛ,barred lambda,,voiceless,dental;alveolar,lateral affricate,,,,,not IPA usage,019B,FD7B
+295,λ,lambda,,voiceless,dental;alveolar,lateral fricative,,,,,not IPA usage,03BB,266E
+296,ž,Z wedge,,voiced,postalveolar,,,,,,not IPA usage,017E,F1F0
+297,š,S wedge,,voiceless,postalveolar,fricative,,,,,not IPA usage,0161,F1DC
+298,ǰ,J wedge,,voiced,postalveolar,affricate,,,,,not IPA usage,01F0,E290
+299,č,C wedge,,voiceless,postalveolar,affricate,,,,,not IPA usage,010D,F1AE
