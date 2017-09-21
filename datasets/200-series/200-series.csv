@@ -1,4 +1,4 @@
-IPA Number,Symbol,Symbol Name,Phonetic Description,Status,UCS Code,AFII Code
+IPA_Number,Symbol,Symbol_Name,Phonetic_Description,Status,UCS_Code,AFII_Code
 201,ʇ,turned T,dental click,superseded by 177 (1989),0287,E2C3
 202,ʗ,stretched C,postalveolar click,superseded by 178 (1989),0297,E2C4
 203,ʖ,inverted glottal stop,alveolar lateral click,superseded by 180 (1989),0296,E2C5

@@ -1,4 +1,4 @@
-IPA Number,Symbol,Symbol Name,Phonetic Description,Status,UCS Code,AFII Code
+IPA_Number,Symbol,Symbol_Name,Phonetic_Description,Status,UCS_Code,AFII_Code
 401,ʼ,apostrophe,ejective,,02BC,E249
 402,̥;̊,under-ring;over-ring,voiceless,,0325;030A,E229;00CA
 403,̬,subscript wedge,voiced,,032C,E22A
