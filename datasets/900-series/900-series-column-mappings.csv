@@ -7,4 +7,4 @@ Status,skos:note,language,,en,$root
 UCS_Code,ipav:uscCode,plain,,,$root
 AFII_Code,ipav:afiiCode,plain,,,$root
 $constant,skos:inScheme,iri,http://example.org/ipa/,,,$root
-$constant,skos:inCollection,iri,http://example.org/ipa/diacritics,,,$root
+$constant,skos:inCollection,iri,http://example.org/ipa/delimiters,,,$root

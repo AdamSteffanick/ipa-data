@@ -1,0 +1,2 @@
+domainRoot,coreClassFile,documentClass,creator,outputDirectory,outFileNameAfter,separator,baseIriColumn,modifiedColumn
+http://example.org/ipa/,900-series.csv,foaf:Document,Adam Steffanick,c:\test\output\,,",",IPA_Number,
