@@ -1,7 +1,7 @@
 IPA_Number,Symbol,Symbol_Name,Description,Voicing,Place_of_Articulation,Manner_of_Articulation,Height,Backness,Rounding,Status,UCS_Code,AFII_Code
 201,ʇ,turned T,,,dental,click,,,,superseded by 177 (1989),0287,E2C3
 202,ʗ,stretched C,,,postalveolar,click,,,,superseded by 178 (1989),0297,E2C4
-203,ʖ,inverted glottal stop,,,alveolar lateral,click,,,,superseded by 180 (1989),0296,E2C5
+203,ʖ,inverted glottal stop,,,alveolar,lateral click,,,,superseded by 180 (1989),0296,E2C5
 204,ʆ,curly-tail esh,,,,,,,,withdrawn (1989),0286,E2D2
 205,ʓ,curly-tail ezh,,,,,,,,withdrawn (1989),0293,E2D3
 206,ɼ,long-leg R,,,,,,,,withdrawn (1989),027C,E2BE
