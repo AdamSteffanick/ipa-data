@@ -1,5 +1,5 @@
 IPA_Number,Symbol,Symbol_Name,Description,Voicing,Place_of_Articulation,Manner_of_Articulation,Height,Backness,Rounding,Status,UCS_Code,AFII_Code
-401,ʼ,apostrophe,ejective,,,,,,,,02BC,E249
+401,ʼ,apostrophe,,,,ejective,,,,,02BC,E249
 402,̥;̊,under-ring;over-ring,,voiceless,,,,,,,0325;030A,E229;00CA
 403,̬,subscript wedge,,voiced,,,,,,,032C,E22A
 404,ʰ,superscript H,aspirated,,,,,,,,02B0,D565
