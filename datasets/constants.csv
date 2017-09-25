@@ -1,0 +1,2 @@
+domainRoot,coreClassFile,documentClass,creator,outputDirectory,outFileNameAfter,separator,baseIriColumn,modifiedColumn
+http://example.org/ipa/,ipa-data.csv,foaf:Document,The International Phonetic Association,c:\test\output\,,",",IPA_Number,
