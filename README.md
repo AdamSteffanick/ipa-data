@@ -8,6 +8,7 @@ Data for the International Phonetic Alphabet (IPA). These open-access datasets r
 * [ipa-data.csv]
 
 ## IPA Chart
+IPA Chart, https://www.internationalphoneticassociation.org/content/ipa-chart, available under a [Creative Commons Attribution-Sharealike 3.0 Unported License]. Copyright © 2015 [International Phonetic Association].
 <img src="./charts/IPA_Kiel_2015.png" alt="IPA Chart" />
 
 ## Changes to the 1999 data
@@ -29,15 +30,12 @@ Data for the International Phonetic Alphabet (IPA). These open-access datasets r
 [International Phonetic Association]. (1999). *[Handbook of the International Phonetic Association]: A guide to the use
 of the International Phonetic Alphabet*. Cambridge: Cambridge University Press.
 
-## Resources
-[IPA Chart], https://www.internationalphoneticassociation.org/content/ipa-chart, available under a [Creative Commons Attribution-Sharealike 3.0 Unported License]. Copyright © 2015 [International Phonetic Association].
-
 [ipa-data.csv]: ./datasets/ipa-data/ipa-data.csv
 
-[IPA Chart]: ./charts/IPA_Kiel_2015.pdf
-[LICENSE]: ./LICENSE
+[IPA Chart]: #ipa-chart
 [references]: #references
 
+[LICENSE]: ./LICENSE
 [Creative Commons Attribution-Sharealike 3.0 Unported License]: ./LICENSE
 [license-badge]: https://img.shields.io/badge/license-CC--BY--SA_3.0-0038e2.svg?style=flat-square
 
