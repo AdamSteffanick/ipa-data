@@ -2,7 +2,7 @@
 
 [![license][license-badge]][LICENSE]
 
-Data for the International Phonetic Alphabet (IPA). These open-access datasets reflect the information on the [IPA Chart] and are extracted from the [Handbook of the International Phonetic Association] ([International Phonetic Association], 1999).
+Data for the International Phonetic Alphabet (IPA). These open-access datasets reflect the information on the [IPA Chart] and the listed [references].
 
 ## Data serializations
 * [ipa-data.csv]
@@ -36,6 +36,8 @@ of the International Phonetic Alphabet*. Cambridge: Cambridge University Press.
 
 [IPA Chart]: ./charts/IPA_Kiel_2015.pdf
 [LICENSE]: ./LICENSE
+[references]: #references
+
 [Creative Commons Attribution-Sharealike 3.0 Unported License]: ./LICENSE
 [license-badge]: https://img.shields.io/badge/license-CC--BY--SA_3.0-0038e2.svg?style=flat-square
 
