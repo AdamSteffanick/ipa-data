@@ -21,7 +21,7 @@ of the International Phonetic Alphabet*. Cambridge: Cambridge University Press.
 [references]: #references
 
 [CHANGELOG]: ./CHANGELOG.md
-[version-badge]: https://img.shields.io/badge/od--api--xquery-unreleased-0038e2.svg?style=flat-square
+[version-badge]: https://img.shields.io/badge/ipa--data-unreleased-0038e2.svg?style=flat-square
 
 [LICENSE]: ./LICENSE
 [Creative Commons Attribution-Sharealike 3.0 Unported License]: ./LICENSE
