@@ -7,6 +7,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 ### Added
 * [CHANGELOG.md]
 * [ipa-data.csv]
+* [LISENCE]
 * [shields.io] license info ([README.md])
 * [shields.io] version info ([README.md])
 * UCS Code 1DBF → IPA Number 217
@@ -27,7 +28,6 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 ## [Initial commit]
 ### Added
-* [LISENCE]
 * [README.md]
 
 [Unreleased]: https://github.com/AdamSteffanick/ipa-data/compare/1505ef6...HEAD
