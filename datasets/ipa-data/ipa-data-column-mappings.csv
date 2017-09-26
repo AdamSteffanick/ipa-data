@@ -12,4 +12,4 @@ Rounding,ipav:rounding,language,,en,$root
 Status,skos:note,language,,en,$root
 UCS_Code,ipav:uscCode,plain,,,$root
 AFII_Code,ipav:afiiCode,plain,,,$root
-$constant,skos:inScheme,iri,http://example.org/ipa/,,,$root
+$constant,skos:inScheme,iri,http://example.org/ipa/,,$root
