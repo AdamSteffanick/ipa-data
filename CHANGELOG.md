@@ -10,6 +10,9 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 * [LISENCE]
 * [shields.io] license info ([README.md])
 * [shields.io] version info ([README.md])
+
+### Changed
+* IPA Numbers 402A & 402B → IPA Number 402
 * UCS Code 1DBF → IPA Number 217
 * UCS Code 1D4A → IPA Number 218
 * UCS Code 1D91 → IPA Number 219
@@ -48,10 +51,6 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 * UCS & AFII Codes 0058 → IPA Number 724
 * UCS & AFII Codes 0059 → IPA Number 725
 * UCS & AFII Codes 005A → IPA Number 726
-
-
-### Changed
-* IPA Numbers 402A & 402B → IPA Number 402
 
 ## [Initial commit]
 ### Added
