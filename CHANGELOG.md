@@ -63,4 +63,4 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 [README.md]: ./README.md
 [ipa-data.csv]: ./datasets/ipa-data/ipa-data.csv
 
-shields.io]: http://shields.io/
+[shields.io]: http://shields.io/
