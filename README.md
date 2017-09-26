@@ -30,7 +30,7 @@ Data for the International Phonetic Alphabet (IPA). These open-access datasets r
 of the International Phonetic Alphabet*. Cambridge: Cambridge University Press.
 
 ## Resources
-[IPA Chart], https://www.internationalphoneticassociation.org/content/ipa-chart, available under a Creative Commons Attribution-Sharealike 3.0 Unported License. Copyright © 2015 [International Phonetic Association].
+[IPA Chart], https://www.internationalphoneticassociation.org/content/ipa-chart, available under a [Creative Commons Attribution-Sharealike 3.0 Unported License]. Copyright © 2015 [International Phonetic Association].
 
 [ipa-data.csv]: ./datasets/ipa-data/ipa-data.csv
 
