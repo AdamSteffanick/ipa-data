@@ -240,9 +240,9 @@ IPA_Number,Symbol,Symbol_Name,Description,Voicing,Place_of_Articulation,Manner_o
 626,J,upper-case J,jaw,,,,,,,= 710,004A,
 627,Œ,upper-case O-E ligature,oesophageal speech,,,,,,,,0152,
 628,Θ,upper-case Greek theta,protruded-tongue voice,,,,,,,,0398,
-631,,bracketed single period,short pause,,,,,,,use 506,,
-632,,bracketed double period,medium-length pause,,,,,,,use 506,,
-633,,bracketed triple period,long pause,,,,,,,use 506,,
+631,(.),bracketed single period,short pause,,,,,,,use 506,0028+002E+0029,
+632,(..),bracketed double period,medium-length pause,,,,,,,use 506,0028+002E+002E+0029,
+633,(...),bracketed triple period,long pause,,,,,,,use 506,0028+002E+002E+002E+0029,
 634,,forte,loud speech,,,,,,,,,
 635,,fortissimo,louder speech,,,,,,,,,
 636,,piano,quiet speech,,,,,,,,,
@@ -254,7 +254,7 @@ IPA_Number,Symbol,Symbol_Name,Description,Voicing,Place_of_Articulation,Manner_o
 642,3,numeral three,extreme degree,,,,,,,,0033,
 651,͆,superscript bridge,dentolabial,,,,,,,,0346,
 652,͍,subscript double arrow,labial spreading,,,,,,,,034D,
-653,,superscript+subscript bridge,bidental articulation,,,,,,,,,
+653,̪͆,superscript+subscript bridge,bidental articulation,,,,,,,,0346+032A,
 654,͊,superscript slashed tilde,denasal,,,,,,,,034A,
 655,͋,superscript dotted tilde,nasal escape,,,,,,,,034B,
 656,͌,superscript double tilde,velopharyngeal friction,,,,,,,,034C,
@@ -287,16 +287,16 @@ IPA_Number,Symbol,Symbol_Name,Description,Voicing,Place_of_Articulation,Manner_o
 683,,right-sited subscript tilde,creaky,,,,,,,= 406,,
 701,A,upper-case A,A,,,,,,,,0041,0041
 702,B,upper-case B,B,,,,,,,,0042,0042
-703,C,upper-case C,C (Creak),,,,,,,use 624,0043,0043
+703,C,upper-case C,C (creak),,,,,,,use 624,0043,0043
 704,D,upper-case D,D,,,,,,,,0044,0044
 705,E,upper-case E,E,,,,,,,,0045,0045
-706,F,upper-case F,F (Falsetto),,,,,,,use 622,0046,0046
+706,F,upper-case F,F (falsetto),,,,,,,use 622,0046,0046
 707,G,upper-case G,G,,,,,,,,0047,0047
 708,H,upper-case H,H,,,,,,,,0048,0048
 709,I,upper-case I,I,,,,,,,,0049,0049
-710,J,upper-case J,J (Jaw),,,,,,,use 626,004A,004A
+710,J,upper-case J,J (jaw),,,,,,,use 626,004A,004A
 711,K,upper-case K,K,,,,,,,,004B,004B
-712,L,upper-case L,L (Larynx),,,,,,,use 625,004C,004C
+712,L,upper-case L,L (larynx),,,,,,,use 625,004C,004C
 713,M,upper-case M,M,,,,,,,,004D,004D
 714,N,upper-case N,N,,,,,,,,004E,004E
 715,O,upper-case O,O,,,,,,,,004F,004F
@@ -306,8 +306,8 @@ IPA_Number,Symbol,Symbol_Name,Description,Voicing,Place_of_Articulation,Manner_o
 719,S,upper-case S,S,,,,,,,,0053,0053
 720,T,upper-case T,T,,,,,,,,0054,0054
 721,U,upper-case U,U,,,,,,,,0055,0055
-722,V,upper-case V,V (Voice),,,,,,,use 621,0056,0056
-723,W,upper-case W,W (Whisper),,,,,,,use 623,0057,0057
+722,V,upper-case V,V (voice),,,,,,,use 621,0056,0056
+723,W,upper-case W,W (whisper),,,,,,,use 623,0057,0057
 724,X,upper-case X,X,,,,,,,,0058,0058
 725,Y,upper-case Y,Y,,,,,,,,0059,0059
 726,Z,upper-case Z,Z,,,,,,,,005A,005A
