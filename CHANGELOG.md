@@ -12,6 +12,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 * [shields.io] version info ([README.md])
 
 ### Changed
+* `or` → `;`
 * IPA Numbers 402A & 402B → IPA Number 402
 * Status `=` → `equivalent to`
 * UCS Code 1DBF → IPA Number 217
