@@ -285,32 +285,32 @@ IPA_Number,Symbol,Symbol_Name,Description,Voicing,Place_of_Articulation,Manner_o
 681,,subscript left pointer,laterally offset to the right,,,,,,,,,
 682,,subscript right pointer,laterally offset to the left,,,,,,,,,
 683,,right-sited subscript tilde,creaky,,,,,,,= 406,,
-701,A,upper-case A,A,,,,,,,,0041,0041
-702,B,upper-case B,B,,,,,,,,0042,0042
-703,C,upper-case C,C (creak),,,,,,,use 624,0043,0043
-704,D,upper-case D,D,,,,,,,,0044,0044
-705,E,upper-case E,E,,,,,,,,0045,0045
-706,F,upper-case F,F (falsetto),,,,,,,use 622,0046,0046
-707,G,upper-case G,G,,,,,,,,0047,0047
-708,H,upper-case H,H,,,,,,,,0048,0048
-709,I,upper-case I,I,,,,,,,,0049,0049
-710,J,upper-case J,J (jaw),,,,,,,use 626,004A,004A
-711,K,upper-case K,K,,,,,,,,004B,004B
-712,L,upper-case L,L (larynx),,,,,,,use 625,004C,004C
-713,M,upper-case M,M,,,,,,,,004D,004D
-714,N,upper-case N,N,,,,,,,,004E,004E
-715,O,upper-case O,O,,,,,,,,004F,004F
-716,P,upper-case P,P,,,,,,,,0050,0050
-717,Q,upper-case Q,Q,,,,,,,,0051,0051
-718,R,upper-case R,R,,,,,,,,0052,0052
-719,S,upper-case S,S,,,,,,,,0053,0053
-720,T,upper-case T,T,,,,,,,,0054,0054
-721,U,upper-case U,U,,,,,,,,0055,0055
-722,V,upper-case V,V (voice),,,,,,,use 621,0056,0056
-723,W,upper-case W,W (whisper),,,,,,,use 623,0057,0057
-724,X,upper-case X,X,,,,,,,,0058,0058
-725,Y,upper-case Y,Y,,,,,,,,0059,0059
-726,Z,upper-case Z,Z,,,,,,,,005A,005A
+701,A,upper-case A,A,,,,,,,,0041,
+702,B,upper-case B,B,,,,,,,,0042,
+703,C,upper-case C,C (creak),,,,,,,use 624,0043,
+704,D,upper-case D,D,,,,,,,,0044,
+705,E,upper-case E,E,,,,,,,,0045,
+706,F,upper-case F,F (falsetto),,,,,,,use 622,0046,
+707,G,upper-case G,G,,,,,,,,0047,
+708,H,upper-case H,H,,,,,,,,0048,
+709,I,upper-case I,I,,,,,,,,0049,
+710,J,upper-case J,J (jaw),,,,,,,use 626,004A,
+711,K,upper-case K,K,,,,,,,,004B,
+712,L,upper-case L,L (larynx),,,,,,,use 625,004C,
+713,M,upper-case M,M,,,,,,,,004D,
+714,N,upper-case N,N,,,,,,,,004E,
+715,O,upper-case O,O,,,,,,,,004F,
+716,P,upper-case P,P,,,,,,,,0050,
+717,Q,upper-case Q,Q,,,,,,,,0051,
+718,R,upper-case R,R,,,,,,,,0052,
+719,S,upper-case S,S,,,,,,,,0053,
+720,T,upper-case T,T,,,,,,,,0054,
+721,U,upper-case U,U,,,,,,,,0055,
+722,V,upper-case V,V (voice),,,,,,,use 621,0056,
+723,W,upper-case W,W (whisper),,,,,,,use 623,0057,
+724,X,upper-case X,X,,,,,,,,0058,
+725,Y,upper-case Y,Y,,,,,,,,0059,
+726,Z,upper-case Z,Z,,,,,,,,005A,
 901,[,left square bracket,begin phonetic transcription,,,,,,,,005B,005B
 902,],right square bracket,end phonetic transcription,,,,,,,,005D,005D
 903,/,slash,begin phonemic transcription;end phonemic transcription,,,,,,,,002F,002F
