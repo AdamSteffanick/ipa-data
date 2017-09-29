@@ -6,13 +6,19 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 ## [Unreleased]
 ### Added
 * [CHANGELOG.md]
+* [constants.csv]
+* [ipa-data.csv]
+* [ipa-data-classes.csv]
+* [ipa-data-column-mappings.csv]
 * [ipa-data.csv]
 * [LISENCE]
+* [metadata.ttl]
+* [namespace.csv]
 * [shields.io] license info ([README.md])
 * [shields.io] version info ([README.md])
 
 ### Changed
-* `or` → `;`
+* `or` → `;` except Status
 * IPA Numbers 402A & 402B → IPA Number 402
 * Status `=` → `equivalent to`
 * UCS Code 1DBF → IPA Number 217
@@ -122,6 +128,12 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 [CHANGELOG.md]: ./CHANGELOG.md
 [LISENCE]: https://github.com/AdamSteffanick/ipa-data/blob/master/LICENSE
 [README.md]: ./README.md
+
+[constants.csv]: ./datasets/ipa-data/constants.csv
 [ipa-data.csv]: ./datasets/ipa-data/ipa-data.csv
+[ipa-data-classes.csv]: ./datasets/ipa-data/ipa-data-classes.csv
+[ipa-data-column-mappings.csv]: ./datasets/ipa-data/ipa-data-column-mappings.csv
+[metadata.ttl]: ./datasets/ipa-data/metadata.ttl
+[namespace.csv]: ./datasets/ipa-data/namespace.csv
 
 [shields.io]: http://shields.io/

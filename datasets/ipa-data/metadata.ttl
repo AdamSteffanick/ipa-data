@@ -1,0 +1,55 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix skos: <http://www.w3.org/2004/02/skos/core#>.
+@prefix foaf: <http://xmlns.com/foaf/0.1/>.
+@prefix vann: <http://purl.org/vocab/vann/>.
+@prefix dc: <http://purl.org/dc/elements/1.1/>.
+@prefix dcterms: <http://purl.org/dc/terms/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix ipa: <http://example.org/ipa/>.
+
+ipa:
+  rdfs:label "International Phonetic Alphabet controlled vocabulary"@en;
+  dcterms:title "International Phonetic Alphabet controlled vocabulary"@en;
+  rdfs:comment "This is a controlled vocabulary whose terms describe the symbols of the International Phonetic Alphabet."@en;
+  skos:note "This is a controlled vocabulary whose terms describe the symbols of the International Phonetic Alphabet."@en;
+  vann:preferredNamespacePrefix "ipa";
+  vann:preferredNamespaceUri "http://example.org/ipa/";
+  dcterms:source ipa:#chart;
+  dcterms:source ipa:#handbook;
+  dc:creator "Adam Steffanick";
+  dcterms:creator <http://orcid.org/0000-0002-8449-6263>;
+  dcterms:created "2017"^^xsd:gYear;
+  dcterms:modified "2017-09-29Z"^^xsd:date;
+  dcterms:license <https://creativecommons.org/licenses/by-sa/3.0/>;
+  foaf:homepage <https://github.com/AdamSteffanick/ipa-data>;
+  void:sparqlEndpoint <https:sparql.vanderilt.edu/sparql>;
+  a skos:ConceptScheme, void:Dataset.
+
+ipa:#chart
+  rdfs:label "IPA Chart"@en;
+  dcterms:title "IPA Chart"@en;
+  dc:publisher "International Phonetic Association";
+  dcterms:creator: <https://www.internationalphoneticassociation.org/>;
+  dcterms:description "IPA Chart, https://www.internationalphoneticassociation.org/content/ipa-chart, available under a Creative Commons Attribution-Sharealike 3.0 Unported License. Copyright © 2015 International Phonetic Association.";
+  dcterms:issued "2015"^^xsd:gYear;
+  dcterms:license <http://creativecommons.org/licenses/by-sa/3.0/>;
+  dc:license "Creative Commons Attribution-Sharealike 3.0 Unported";
+  dcterms:dateCopyrighted "2015"^^xsd:gYear;
+  dc:rights "Copyright © 2015 International Phonetic Association";
+  rdfs:seeAlso <http://www.internationalphoneticassociation.org/content/ipa-chart>;
+  rdfs:seeAlso <https://www.internationalphoneticassociation.org/sites/default/files/IPA_Kiel_2015.pdf>;
+  a dcterms:LinguisticSystem.
+
+ipa:#handbook
+  rdfs:label "Handbook of the International Phonetic Association: A guide to the use of the International Phonetic Alphabet"@en;
+  dcterms:title "Handbook of the International Phonetic Association: A guide to the use of the International Phonetic Alphabet"@en;
+  dc:publisher "Cambridge University Press";
+  dcterms:creator: <https://www.internationalphoneticassociation.org/>;
+  dcterms:description "The Association have edited the Handbook of the International Phonetic Association: A guide to the use of the International Phonetic Alphabet', published by Cambridge University Press (1999). It replaces the booklet, 'The Principles of the International Phonetic Association' (London 1949).";
+  dcterms:issued "1999"^^xsd:gYear;
+  dcterms:dateCopyrighted "1999"^^xsd:gYear;
+  dc:rights "Copyright © 1999 International Phonetic Association";
+  rdfs:seeAlso <https://www.internationalphoneticassociation.org/content/handbook-ipa>;
+  a dcterms:BibliographicResource.
