@@ -55,7 +55,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 * UCS Code 1D18F → IPA Number 636
 * UCS Codes 1D18F+1D18F → IPA Number 637
 * UCS Codes 1D44E+1D459+1D459+1D452+1D454+1D45F+1D45C → IPA Number 638
-* UCS Codes 1D459+1D459+1D45B+1D461+1D45C → IPA Number 639
+* UCS Codes 1D459+1D452+1D45B+1D461+1D45C → IPA Number 639
 * UCS Code 0031 → IPA Number 640
 * UCS Code 0032 → IPA Number 641
 * UCS Code 0033 → IPA Number 642
