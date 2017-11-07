@@ -82,6 +82,7 @@ IPA_Number,Symbol,Symbol_Name,Description,Voicing,Place_of_Articulation,Manner_o
 181,ɺ,turned long-leg R,,voiced,alveolar,lateral flap,,,,,027A,E2BF
 182,ɕ,curly-tail C,,voiceless,alveolo-palatal,fricative,,,,,0255,E2CE
 183,ʑ,curly-tail Z,,voiced,alveolo-palatal,fricative,,,,,0291,E2CF
+184,ⱱ,right-hook V,,voiced,labiodental,flap,,,,adopted (2005),2C71,
 201,ʇ,turned T,,,dental,click,,,,superseded by 177 (1989),0287,E2C3
 202,ʗ,stretched C,,,postalveolar,click,,,,superseded by 178 (1989),0297,E2C4
 203,ʖ,inverted glottal stop,,,alveolar,lateral click,,,,superseded by 180 (1989),0296,E2C5
@@ -101,6 +102,7 @@ IPA_Number,Symbol,Symbol_Name,Description,Voicing,Place_of_Articulation,Manner_o
 217,ᶿ,superscript theta,,voiceless,dental,fricative release,,,,,1DBF,E21B
 218,ᵊ,superscript schwa,,,,release,mid,central,,,1D4A,E21A
 219,ᶑ,hooktop right-tail-D,,voiced,retroflex,imposive,,,,not explicitly IPA approved,1D91,E219
+222,ȵ,curly-tail N (at right),,voiced,alveolo-palatal,nasal,,,,not explicitly IPA approved,0235,
 290,ƻ,barred two,,,,,,,,withdrawn (1976),01BB,E2B5
 291,ʞ,turned K,,,,,,,,withdrawn (1979),029E,E2F4
 292,ˣ,superscript X,,voiceless,velar,fricative release,,,,,02E3,D56F
