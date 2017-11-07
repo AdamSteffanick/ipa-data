@@ -8,6 +8,8 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 * [CHANGELOG.md]
 * [constants.csv]
 * IPA Number 184
+* IPA Number 220
+* IPA Number 221
 * IPA Number 222
 * [ipa-data.csv]
 * [ipa-data-classes.csv]

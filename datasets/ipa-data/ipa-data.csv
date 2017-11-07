@@ -102,6 +102,8 @@ IPA_Number,Symbol,Symbol_Name,Description,Voicing,Place_of_Articulation,Manner_o
 217,ᶿ,superscript theta,,voiceless,dental,fricative release,,,,,1DBF,E21B
 218,ᵊ,superscript schwa,,,,release,mid,central,,,1D4A,E21A
 219,ᶑ,hooktop right-tail-D,,voiced,retroflex,imposive,,,,not explicitly IPA approved,1D91,E219
+220,ȶ,curly-tail T,,voiceless,alveolo-palatal,stop,,,,not explicitly IPA approved,0236,
+221,ȡ,curly-tail D,,voiced,alveolo-palatal,stop,,,,not explicitly IPA approved,0221,
 222,ȵ,curly-tail N (at right),,voiced,alveolo-palatal,nasal,,,,not explicitly IPA approved,0235,
 290,ƻ,barred two,,,,,,,,withdrawn (1976),01BB,E2B5
 291,ʞ,turned K,,,,,,,,withdrawn (1979),029E,E2F4
