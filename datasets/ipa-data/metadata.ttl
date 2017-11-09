@@ -21,7 +21,7 @@ ipa:
   dc:creator "Adam Steffanick";
   dcterms:creator <http://orcid.org/0000-0002-8449-6263>;
   dcterms:created "2017"^^xsd:gYear;
-  dcterms:modified "2017-09-29Z"^^xsd:date;
+  dcterms:modified "2017-11-09Z"^^xsd:date;
   dcterms:license <https://creativecommons.org/licenses/by-sa/3.0/>;
   foaf:homepage <https://github.com/AdamSteffanick/ipa-data>;
   void:sparqlEndpoint <https:sparql.vanderilt.edu/sparql>;
