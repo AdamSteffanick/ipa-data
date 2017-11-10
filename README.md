@@ -7,6 +7,9 @@ Data for the International Phonetic Alphabet (IPA). These open-access datasets r
 ## Data serializations
 * [ipa-data.csv]
 
+## Resources
+* [International Phonetic Alphabet (IPA) Symbols Unicode Cheat Sheet](https://www.steffanick.com/adam/blog/international-phonetic-alphabet-symbols-unicode-cheatsheet/)
+
 ## IPA Chart
 <img src="./charts/IPA_Kiel_2015.png" alt="IPA Chart" />
 IPA Chart, https://www.internationalphoneticassociation.org/content/ipa-chart, available under a [Creative Commons Attribution-Sharealike 3.0 Unported License]. Copyright © 2015 [International Phonetic Association].
