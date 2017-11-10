@@ -16,15 +16,15 @@ ipa:
   skos:note "This is a controlled vocabulary whose terms describe the symbols of the International Phonetic Alphabet."@en;
   vann:preferredNamespacePrefix "ipa";
   vann:preferredNamespaceUri "http://example.org/ipa/";
-  dcterms:source ipa:#chart;
-  dcterms:source ipa:#handbook;
+  dcterms:source <http://example.org/ipa/#chart>;
+  dcterms:source <http://example.org/ipa/#handbook>;
   dc:creator "Adam Steffanick";
   dcterms:creator <http://orcid.org/0000-0002-8449-6263>;
   dcterms:created "2017"^^xsd:gYear;
   dcterms:modified "2017-11-09Z"^^xsd:date;
   dcterms:license <https://creativecommons.org/licenses/by-sa/3.0/>;
   foaf:homepage <https://github.com/AdamSteffanick/ipa-data>;
-  void:sparqlEndpoint <https:sparql.vanderilt.edu/sparql>;
+  void:sparqlEndpoint <https://sparql.vanderilt.edu/sparql>;
   a skos:ConceptScheme, void:Dataset.
 
 ipa:#chart
@@ -47,7 +47,7 @@ ipa:#handbook
   dcterms:title "Handbook of the International Phonetic Association: A guide to the use of the International Phonetic Alphabet"@en;
   dc:publisher "Cambridge University Press";
   dcterms:creator: <https://www.internationalphoneticassociation.org/>;
-  dcterms:description "The Association have edited the Handbook of the International Phonetic Association: A guide to the use of the International Phonetic Alphabet', published by Cambridge University Press (1999). It replaces the booklet, 'The Principles of the International Phonetic Association' (London 1949).";
+  dcterms:description "The Association have edited the ‘Handbook of the International Phonetic Association: A guide to the use of the International Phonetic Alphabet’, published by Cambridge University Press (1999). It replaces the booklet, ‘The Principles of the International Phonetic Association’ (London 1949).";
   dcterms:issued "1999"^^xsd:gYear;
   dcterms:dateCopyrighted "1999"^^xsd:gYear;
   dc:rights "Copyright © 1999 International Phonetic Association";
