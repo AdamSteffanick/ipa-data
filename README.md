@@ -18,7 +18,7 @@ IPA Chart, https://www.internationalphoneticassociation.org/content/ipa-chart, a
 [International Phonetic Association]. (1999). *[Handbook of the International Phonetic Association]: A guide to the use
 of the International Phonetic Alphabet*. Cambridge: Cambridge University Press.
 
-[ipa-data.csv]: ./datasets/ipa-data/ipa-data.csv
+[ipa-data.csv]: ./datasets/ipa-data.csv
 
 [IPA Chart]: #ipa-chart
 [references]: #references
