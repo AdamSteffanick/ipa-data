@@ -31,7 +31,7 @@ ipa:#chart
   rdfs:label "IPA Chart"@en;
   dcterms:title "IPA Chart"@en;
   dc:publisher "International Phonetic Association";
-  dcterms:creator: <https://www.internationalphoneticassociation.org/>;
+  dcterms:creator <https://www.internationalphoneticassociation.org/>;
   dcterms:description "IPA Chart, https://www.internationalphoneticassociation.org/content/ipa-chart, available under a Creative Commons Attribution-Sharealike 3.0 Unported License. Copyright © 2015 International Phonetic Association.";
   dcterms:issued "2015"^^xsd:gYear;
   dcterms:license <http://creativecommons.org/licenses/by-sa/3.0/>;
@@ -46,7 +46,7 @@ ipa:#handbook
   rdfs:label "Handbook of the International Phonetic Association: A guide to the use of the International Phonetic Alphabet"@en;
   dcterms:title "Handbook of the International Phonetic Association: A guide to the use of the International Phonetic Alphabet"@en;
   dc:publisher "Cambridge University Press";
-  dcterms:creator: <https://www.internationalphoneticassociation.org/>;
+  dcterms:creator <https://www.internationalphoneticassociation.org/>;
   dcterms:description "The Association have edited the ‘Handbook of the International Phonetic Association: A guide to the use of the International Phonetic Alphabet’, published by Cambridge University Press (1999). It replaces the booklet, ‘The Principles of the International Phonetic Association’ (London 1949).";
   dcterms:issued "1999"^^xsd:gYear;
   dcterms:dateCopyrighted "1999"^^xsd:gYear;
