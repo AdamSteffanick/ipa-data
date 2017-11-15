@@ -9,7 +9,7 @@
 @prefix void: <http://rdfs.org/ns/void#>.
 @prefix ipa: <http://example.org/ipa/>.
 
-ipa:
+http://example.org/ipa
   rdfs:label "International Phonetic Alphabet controlled vocabulary"@en;
   dcterms:title "International Phonetic Alphabet controlled vocabulary"@en;
   rdfs:comment "This is a controlled vocabulary whose terms describe the symbols of the International Phonetic Alphabet."@en;
@@ -27,7 +27,7 @@ ipa:
   void:sparqlEndpoint <https://sparql.vanderilt.edu/sparql>;
   a skos:ConceptScheme, void:Dataset.
 
-ipa:#chart
+http://example.org/ipa#chart
   rdfs:label "IPA Chart"@en;
   dcterms:title "IPA Chart"@en;
   dc:publisher "International Phonetic Association";
@@ -42,7 +42,7 @@ ipa:#chart
   rdfs:seeAlso <https://www.internationalphoneticassociation.org/sites/default/files/IPA_Kiel_2015.pdf>;
   a dcterms:LinguisticSystem.
 
-ipa:#handbook
+http://example.org/ipa#handbook
   rdfs:label "Handbook of the International Phonetic Association: A guide to the use of the International Phonetic Alphabet"@en;
   dcterms:title "Handbook of the International Phonetic Association: A guide to the use of the International Phonetic Alphabet"@en;
   dc:publisher "Cambridge University Press";
