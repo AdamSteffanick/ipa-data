@@ -13,6 +13,7 @@ Data for the International Phonetic Alphabet (IPA). These open-access datasets c
 ## References
 [International Phonetic Association]. (1999). *[Handbook of the International Phonetic Association: A guide to the use
 of the International Phonetic Alphabet](https://www.internationalphoneticassociation.org/content/handbook-ipa)*. Cambridge: Cambridge University Press.
+
 IPA Chart, https://www.internationalphoneticassociation.org/content/ipa-chart, available under a [Creative Commons Attribution-Sharealike 3.0 Unported License](https://creativecommons.org/licenses/by-sa/3.0/). Copyright © 2015 [International Phonetic Association].
 
 [ipa-data.csv]: ./datasets/ipa-data.csv
