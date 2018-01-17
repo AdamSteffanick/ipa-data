@@ -133,7 +133,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 [LISENCE]: https://github.com/AdamSteffanick/ipa-data/blob/master/LICENSE
 [README.md]: ./README.md
 
-[ipa-data.csv]: ./datasets/ipa-data.csv
+[ipa-data.csv]: ./guid-o-matic/ipa-data/ipa-data.csv
 
 [constants.csv]: ./guid-o-matic/ipa-data/constants.csv
 [ipa-data-classes.csv]: ./guid-o-matic/ipa-data/ipa-data-classes.csv
