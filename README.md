@@ -16,7 +16,7 @@ of the International Phonetic Alphabet](https://www.internationalphoneticassocia
 
 IPA Chart, https://www.internationalphoneticassociation.org/content/ipa-chart, available under a [Creative Commons Attribution-Sharealike 3.0 Unported License](https://creativecommons.org/licenses/by-sa/3.0/). Copyright © 2015 [International Phonetic Association].
 
-[ipa-data.csv]: ./datasets/ipa-data.csv
+[ipa-data.csv]: ./guid-o-matic/ipa-data/ipa-data.csv
 
 [references]: #references
 
